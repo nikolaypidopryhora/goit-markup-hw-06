@@ -869,6 +869,7 @@ a {
     flex-wrap: wrap;
     justify-content: left;
     padding-left: 108px;
+    max-width: 768px;
   }
 
   .footer-first-part {
